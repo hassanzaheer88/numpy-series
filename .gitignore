@@ -17,3 +17,6 @@ desktop.ini
 
 # VS Code
 .vscode/
+
+# Anaconda internal folder
+anaconda_projectsdb/
